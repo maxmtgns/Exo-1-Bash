@@ -1,4 +1,4 @@
-# Bash exercise — Shell & scripting
+# Exo 1 - bash
 
 My solution to the [Linux bash exercise](https://courses.dallard.tech/linux/bash_exo/):
 improve the shell, check Python, and automate the setup of a dev environment
