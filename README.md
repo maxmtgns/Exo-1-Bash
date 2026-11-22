@@ -127,11 +127,3 @@ chmod +x env_install.sh   # make it executable
 [OK] All done! Log file: ./env_install.log
 ```
 
-## Part 4 — Verification checklist
-
-- [ ] Shell prompt shows the Oh My Bash theme
-- [ ] `gst` behaves like `git status`
-- [ ] `python3 --version` returns 3.x
-- [ ] `python3 -m pip --version` shows pip
-- [ ] `jupyter notebook` launches
-- [ ] On macOS: `brew doctor` reports no serious issues
