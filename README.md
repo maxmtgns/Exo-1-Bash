@@ -105,25 +105,4 @@ chmod +x env_install.sh   # make it executable
 
 - **Uninstall:** removes Jupyter Notebook (brew, pipx or pip, whichever was used). Python itself is kept on purpose because the OS depends on it.
 
-### Example run (Ubuntu 24.04)
-
-```text
-[INFO] Detected operating system: linux (OSTYPE=linux-gnu)
-
-[OK] python3 is installed: Python 3.13.18
-
-[OK] pip is available: pip 24.0 from /usr/lib/python3/dist-packages/pip (python 3.13)
-
-[INFO] Installing Jupyter Notebook...
-
-[OK] Jupyter Notebook is ready.
-
-[INFO] Summary
-
-  Python:    Python 3.13.18
-  Pip:       pip 24.0
-  Jupyter:   installed (launch with: jupyter notebook)
-
-[OK] All done! Log file: ./env_install.log
-```
 
